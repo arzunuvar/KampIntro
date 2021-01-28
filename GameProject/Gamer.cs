@@ -14,4 +14,3 @@ namespace GameProject
 
     }
 }
-© 2021 GitHub, Inc.
